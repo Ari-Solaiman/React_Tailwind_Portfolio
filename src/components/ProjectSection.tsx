@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "SaaS Landing Page",
         description: "A beautiful landing page app using React and Tailwind.",
-        Image: "/Projects/project1.png",
+        Image: "/projects/project1.png",
         tags: ["React", "TailwindCSS", "Supabase"],
         demoUrl: "#",
         githubUrl: "#"
@@ -14,7 +14,7 @@ const projects = [
         id: 2,
         title: "Orbit Analytics Dashboard",
         description: "Interactive analytics dashboard with data visualization and filtering capabilities.",
-        Image: "/Projects/project2.png",
+        Image: "/projects/project2.png",
         tags: ["TypeScript", "D3.js", "Next.js"],
         demoUrl: "#",
         githubUrl: "#"
@@ -23,7 +23,7 @@ const projects = [
         id: 3,
         title: "E-commerce Platform",
         description: "Full-featured e-commerce platform with user authentication and payment processing.",
-        Image: "/Projects/project3.png",
+        Image: "/projects/project3.png",
         tags: ["React", "Node.js", "Stripe"],
         demoUrl: "#",
         githubUrl: "#"
